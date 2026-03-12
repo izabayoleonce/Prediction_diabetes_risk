@@ -1,0 +1,6 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "c:/Users/Leonce/Downloads/dataviz_web/medipredict/.vscode/excel-pq-symbols",
+        "c:/Users/Leonce/Downloads/dataviz-web/medipredict/.vscode/excel-pq-symbols"
+    ]
+}
