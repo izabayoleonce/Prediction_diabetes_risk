@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MediPredict — Prédiction du risque de diabète de type 2
 
 ## Description
@@ -83,3 +84,7 @@ medipredict/
 ## Licence
 
 Projet pédagogique — Usage éducatif uniquement.
+=======
+# Prediction_diabetes_risk
+Project of Prediction of diabetes risk, Develop a web application accessible via a public link for a fictitious health insurance company. This is part of a school project.
+>>>>>>> 88d9ef5a615821ce1c7ab7cbf9614b5c2f035d82
